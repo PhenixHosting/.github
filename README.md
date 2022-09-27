@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ExtremeOnly</h1>
-<h3 align="center">A passionate developer from Poland</h3>
+<h3 align="center">A network of game servers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zabujca997&label=Profile%20views&color=0e75b6&style=flat" alt="zabujca997" /> </p>
 
