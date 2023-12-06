@@ -1,29 +1,29 @@
-<h1 align="center">Hi 👋, I'm ExtremeOnly</h1>
+<h1 align="center">Welcome to 👋, PhenixHosting</h1>
 <h3 align="center">A network of game servers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zabujca997&label=Profile%20views&color=0e75b6&style=flat" alt="zabujca997" /> </p>
 
 <p align="left"> <a href="https://twitter.com/extremegamesetg" target="blank"><img src="https://img.shields.io/twitter/follow/extremegamesetg?logo=twitter&style=for-the-badge" alt="extremegamesetg" /></a> </p>
 
-- 🔭 I’m currently working on [ExtremeOnly](https://github.com/ExtremeOnly)
+- 🔭 We currently working on [Shop](http://sklep.phenixhosting.pl)
 
-- 🌱 I’m currently learning **Framework, New Language**
+- 🌱 We currently learning **Framework, New Language and technologys**
 
-- 👯 I’m collaborate on [FunnyGuilds](https://github.com/FunnyGuilds/FunnyGuilds)
+- 👯 We collaborate on [FunnyGuilds](https://github.com/FunnyGuilds/FunnyGuilds)
 
-- 🤝 I’m help with [Skript](https://github.com/SkriptLang/Skript/pull/4891)
+- 🤝 We help with [Skript](https://github.com/SkriptLang/Skript/pull/4891)
 
-- 👨‍💻 All of my projects are available at [https://ExtremeOnly.it/MaxWhite](https://ExtremeOnly.it/MaxWhite)
+- 👨‍💻 All of projects are available at [GitHub](https://github.com/PhenixHosting)
 
-- 📝 I regularly write on discord [Max White#8603](Max White#8603)
+- 📝 We regularly write on [Discord](https://discord.gg/sqvEf239AV)
 
-- 💬 Ask me about **Servers, ExtremeOnly, Work**
+- 💬 Ask us about **Servers, Support, Work**
 
-- 📫 How to reach me **Admin@ExtremeOnly.it**
+- 📫 How to reach us **Admin@phenixhosting.pl**
 
-- 📄 Know about my experiences [https://ExtremeOnly.it/](https://ExtremeOnly.it/)
+- 📄 Know about us experiences [Main site](https://phenixhosting.pl/)
 
-- ⚡ Fun fact **I hard work men in my servers**
+- ⚡ Fun fact **We hard work of servers**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -33,12 +33,10 @@
 <p align="left">
 <a href="https://codepen.io/maxwhitepl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maxwhitepl" height="30" width="40" /></a>
 <a href="https://dev.to/maxwhitepl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="maxwhitepl" height="30" width="40" /></a>
-<a href="https://twitter.com/extremegamesetg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="extremegamesetg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/patryk-krekora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patryk-krekora" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16153870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16153870" height="30" width="40" /></a>
-<a href="https://fb.com/extremeonlyfanpage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="extremeonlyfanpage" height="30" width="40" /></a>
-<a href="https://instagram.com/extremeonly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="extremeonly" height="30" width="40" /></a>
-<a href="https://discord.gg/pmK8fkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pmK8fkt" height="30" width="40" /></a>
+<a href="https://fb.com/phenixhosting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="extremeonlyfanpage" height="30" width="40" /></a>
+<a href="https://discord.gg/sqvEf239AV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pmK8fkt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
