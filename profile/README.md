@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zabujca997&label=Profile%20views&color=0e75b6&style=flat" alt="zabujca997" /> </p>
 
-<p align="left"> <a href="https://twitter.com/extremegamesetg" target="blank"><img src="https://img.shields.io/twitter/follow/extremegamesetg?logo=twitter&style=for-the-badge" alt="extremegamesetg" /></a> </p>
-
 - 🔭 We currently working on [Shop](http://sklep.phenixhosting.pl)
 
 - 🌱 We currently learning **Framework, New Language and technologys**
@@ -12,6 +10,8 @@
 - 👯 We collaborate on [FunnyGuilds](https://github.com/FunnyGuilds/FunnyGuilds)
 
 - 🤝 We help with [Skript](https://github.com/SkriptLang/Skript/pull/4891)
+
+- 🤝 We help with language [WemX](https://github.com/WemXPro/languages/pull/12)
 
 - 👨‍💻 All of projects are available at [GitHub](https://github.com/PhenixHosting)
 
